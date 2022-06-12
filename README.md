@@ -8,7 +8,7 @@ Afterwards, run these commands:
 * `npx eslint .`
 * `npx eslint . --config .eslintrc`
 
-```bash
+```js
 ❯ npx eslint .
 
 /private/tmp/eslint-15988-repro/index.js
