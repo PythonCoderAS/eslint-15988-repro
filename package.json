@@ -1,0 +1,26 @@
+{
+  "name": "eslint-15988-repro",
+  "version": "1.0.0",
+  "description": "Repro repo for eslint issue #15988.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PythonCoderAS/eslint-15988-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PythonCoderAS/eslint-15988-repro/issues"
+  },
+  "homepage": "https://github.com/PythonCoderAS/eslint-15988-repro#readme",
+  "dependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-pythoncoderas-combo": "^1.0.1",
+    "prettier": "^2.6.2",
+    "typescript": "^4.7.3"
+  }
+}
